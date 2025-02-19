@@ -1,3 +1,4 @@
+wifi decodificador api de conectividad ![1000919942](https://github.com/user-attachments/assets/e054ede4-e852-4801-9793-e8fb1a5e50eb)
 <header>
 
 <!--
